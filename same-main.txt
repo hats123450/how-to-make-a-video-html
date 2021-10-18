@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="content">
+    <title>website name</title>.
+    <link href="css/main.css" type="text/css" rel="stylesheet"
+    <link type="text/css" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=pacifico">
+  </head>
+    
+  <body>
+this is where you are gonna put your stuff you want into it and it will show on your website    
+  </body>
+</html>
